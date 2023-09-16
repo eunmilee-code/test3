@@ -1,5 +1,5 @@
 # test3
-'''mermaid
+```mermaid
 
 classDiagram
     class Customer {
